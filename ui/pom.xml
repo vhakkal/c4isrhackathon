@@ -6,8 +6,8 @@
 		<artifactId>c4isrdbh</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	<artifactId>kafka</artifactId>
-	<packaging>jar</packaging>
+	<artifactId>ui</artifactId>
+	<packaging>war</packaging>
 
 	
 </project>

@@ -6,7 +6,7 @@
 		<artifactId>c4isrdbh</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	<artifactId>kafka</artifactId>
+	<artifactId>data</artifactId>
 	<packaging>jar</packaging>
 
 	

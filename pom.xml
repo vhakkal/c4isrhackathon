@@ -13,6 +13,7 @@
 	</properties>
 	
 	<modules>
+		<module>data</module>
 		<module>kafka</module>
 		<module>storm</module>
 		<module>ui</module>
